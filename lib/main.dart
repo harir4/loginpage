@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:loginpage/screens/home.dart';
+import 'package:loginpage/screens/login.dart';
 
 void main() {
   runApp(MaterialApp(
-
- home: Home(), ));
+    home: Login(),
+  ));
 }
